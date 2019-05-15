@@ -11,4 +11,6 @@ canvas{
 	border-style: ridge;
 	border-color: red;
 	border-width: 20px;
+	margin: auto;
+	width: 50%;
 }
