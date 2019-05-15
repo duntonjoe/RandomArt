@@ -1,0 +1,14 @@
+body{
+	background-color:#9c9fa3;
+	text-align: center;
+	margin: auto;
+	width: 50%;
+}
+
+canvas{
+	padding: 10px;
+	background-color: black;
+	border-style: ridge;
+	border-color: red;
+	border-width: 20px;
+}
